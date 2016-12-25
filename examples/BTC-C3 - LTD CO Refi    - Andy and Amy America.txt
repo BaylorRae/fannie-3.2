@@ -1,0 +1,72 @@
+EH                                   20100512    10000
+TH T100099-002     2000
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A01                                                                                                              BTC-C3               211000.00  5.25036005                                                                                                                                                                
+02A4321 Cul de Sac Street                            Someplace                          MA02723    1  F1                                                                                    
+PAI4321       Cul de Sac Street                                  
+02B  05                                                                                1                                                            1        
+02D                                                                13                                                                                U               
+03ABW999603333Andy                                                                  America                                508888888847 16M  Y500602222        andy.a@fanniemae.com                                                            
+03AQZ500602222Amy                                                                   America                                508888888847 18M  Y999603333        amy.a@fanniemae.com                                                             
+03C999603333ZG4321 Cul de Sac St                                Someplace                          MA02723    O6 3                                                   
+03C500602222ZG4321 Cul de Sac St                                Someplace                          MA02723    O6 3                                                   
+03C999603333BH4321 Cul de Sac St                                Someplace                          MA02723         USA                                               
+03C500602222BH4321 Cul de Sac St                                Someplace                          MA02723         USA                                               
+04A999603333Abacus                                                                                                              N5 4 5                                    
+04A500602222Aardvark                                                                                                            N8 119                                    
+05H999603333226        1165.15
+05H999603333222        1671.00
+05H999603333201          65.00
+05H999603333214         235.00
+05H999603333202               
+05H999603333206         300.00
+05H999603333223               
+05H999603333125               
+05H999603333126        1691.00
+05H999603333122        1671.00
+05H999603333101          65.00
+05H999603333114         235.00
+05H999603333102               
+05H999603333106         300.00
+05H999603333123               
+05I99960333320        5000.00
+05I99960333333           0.00
+05I50060222220        5400.00
+05I50060222233           0.00
+06C99960333303 Checking                                                                                                                                                  7500.00                                                                                          
+06C999603333F3 Money Market                                                                                                                                            100000.00                                                                                          
+06C500602222SG Savings                                                                                                                                                  25000.00                                                                                          
+06G9996033334321 Cul de Sac St                 Someplace                          MA02723    H14      600000.00      420306.00                       3362.00         598.00               YY1                
+06L999603333M BEST EVER MORTGAGE                                                                                                  502088                                1691.00125      210279.00Y1 NNYN
+06L999603333M CALLABLE MORTGAGE                                                                                                   757570                                1671.00126      210027.00N1 NNYN
+06L999603333I RELENTLESS BANK                                                                                                     200021                                  46.2234         1554.00N  NNNN
+06L999603333R ALLEN BANK CARD                                                                                                     435617                                 133.0036         4665.00N  NNNN
+06L999603333R BURSTING CREDIT                                                                                                     171442                                  27.0051         1357.00Y  NNNN
+06L999603333R CAPITAL BANK                                                                                                        529115                                  10.003            29.00N  NNNN
+06L999603333R PRIME VISA                                                                                                          411711911                               40.0012          450.00Y  NNNN
+06S999603333HMB           0.00
+06S999603333SCA           0.00
+07A           0.00           0.00           0.00      210279.00        1500.00        4785.00           0.00           0.00           0.00           0.00           0.00
+07B08         450.00
+08A999603333NNNNNNNNN01YY125
+08A500602222NNNNNNNNN01YY125
+10A999603333N2                              M
+10A500602222N2                              F
+10BTJohn Done                                                   201109012023333333ABC Mortgage                       412 H St, NW                                                          Washington                         DC200121234
+10R9996033331 
+10R5006022225 
+00070 3.20 
+99B F1      760000.00  0.00002116Sam Appraiser                                               Appraisers Inc                     123456789111111DC
+ADSLoanOriginatorID                   123456789012                                      
+ADSLoanOriginationCompanyID           123456789111                                      
+ADSSupervisoryAppraiserLicenseNumber  123456789abcdefghijkl                             
+00011 3.20 
+LNC1F01        16                                        N                                N
+PID                                                  
+PCH    01  N 
+00030 3.20 
+LMD                                                                                NN           0.00              0           0.00
+TT      2000
+ET     10000

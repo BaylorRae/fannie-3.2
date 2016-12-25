@@ -1,0 +1,61 @@
+EH                                   20100512    10000
+TH T100099-002     2000
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A01                                                                                                              BTC-C6 - 4Unit       150000.00  6.00036005                                                                                                                                                                
+02A3726 Poplar St                                    Dawson                             IA5006611114  F1                                                                                    
+PAI3726       Poplar St                                          
+02B  16                                                                                DSole Owner                                                  1        
+02CAlice Firstimer                                             
+02D                                                                                                                                                  U               
+03ABW991919991Alice                                                                 Firstimer                              515555555519 16U  N         19900101aliceee@fanniemae.com                                                           
+03C991919991ZG9991 Warford                                      Dawson                             IA50066    R2 6                                                   
+03C991919991BH9991 Warford                                      Dawson                             IA50066         USA                                               
+04A991919991Abacab                                                                                                              N2 0 2                                    
+05H991919991226         899.33
+05H991919991222               
+05H991919991201         153.00
+05H991919991214         186.00
+05H991919991202               
+05H991919991206               
+05H991919991223               
+05H991919991125         750.00
+05H991919991126               
+05H991919991122               
+05H991919991101               
+05H991919991114               
+05H991919991102               
+05H991919991106               
+05H991919991123               
+05I99191999120        5000.00
+05I99191999109         250.00
+05I99191999133           0.00
+05I991919991SI         201.72
+06C99191999103                                                                                                                                                           2500.00                                                                                          
+06C991919991SG                                                                                                                                                          36000.00                                                                                          
+06C991919991F3                                                                                                                                                          73000.00                                                                                          
+06L991919991F MOUNTAIN BANK                                                                                                       3563A019732                            123.0022         2600.00N  NNNN
+06L991919991R HEMLOCKS                                                                                                            98E543184                               44.0010          437.00N  NNNN
+06S991919991HMB           0.00
+06S991919991SCA           0.00
+07A      200000.00           0.00           0.00           0.00         799.00        7800.00           0.00           0.00           0.00        1000.00           0.00
+07B08         368.00
+08A991919991NNNNNNNNN01NN   
+10A991919991N2                              F
+10BFJohn Done                                                   201109012023333333ABC Mortgage                       412 H St, NW                                                          Washington                         DC200121234
+10R9919199912 
+00070 3.20 
+99B F1      200000.00  0.00002116Sam Appraiser                                               Appraisers Inc                     123456789111111DC
+ADSLoanOriginatorID                   123456789012                                      
+ADSLoanOriginationCompanyID           123456789111                                      
+ADSSupervisoryAppraiserLicenseNumber  123456789abcdefghijkl                             
+00011 3.20 
+LNC1 01        16                                        N                               NN
+PID                                                  
+PCH    01  N 
+BUA   12   1.000Y00
+00030 3.20 
+LMD                                                                                NN           0.00              0           0.00
+TT      2000
+ET     10000

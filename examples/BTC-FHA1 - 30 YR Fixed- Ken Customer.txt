@@ -1,0 +1,65 @@
+EH                                   20100512    10000
+TH T100099-002     2000
+TPI 1.0001                              N
+0001  3.20 W
+00ANN
+01A03                                                                                                              BTC-FHA1             250000.00  5.25036005                                                                                                                                                                
+02A10655 Birch St                                    Burbank                            CA9150212341  F1                                                                                    
+PAI10655      Birch St                                           
+02B  16                                                                                1                                                            1        
+02D                                                                                                                                                  U               
+03ABW500507000Ken                                N                                  Customer                           JR  8182222222     U  N         19600704ken.c@fanniemae.com                                                             
+03C500507000ZG10655 Birch St                                    Burbank                            CA915021234R3 7                                                   
+03C500507000BH10655 Birch St                                    Burbank                            CA915021234     USA                                               
+04A500507000National Consulting                1236 Main St                       Burbank                            CA915021234N155 21Consultant               8183323332
+05H500507000226        1417.78
+05H500507000222               
+05H500507000201          75.00
+05H500507000214         165.00
+05H500507000202          50.00
+05H500507000206         365.00
+05H500507000223         100.00
+05H500507000125        3500.00
+05H500507000126               
+05H500507000122               
+05H500507000101               
+05H500507000114               
+05H500507000102               
+05H500507000106               
+05H500507000123               
+05I50050700020       10000.00
+05I50050700009        1000.00
+05I50050700008         750.00
+05I50050700017        1000.00
+05I50050700033           0.00
+06C500507000F1 ABC Realty                         3700 Connecticut St                Burbank                            CA91502                                         10000.00       Earnest Money Deposit                                                              
+06C50050700003 Bank of Noosh                      15096 Sunnyside St                 Burbank                            CA91502    123456                               12000.00       Checking                                                                           
+06C50050700001 Bank of Noosh                      15096 Sunnyside St                 Burbank                            CA91502    1234567                             100000.00       30-Day CD                                                                          
+06L500507000R HEMLOCKS                                                                                                            98E543184026                            44.0010          437.00N  NNNN
+06L500507000I HILLSIDE BANK                                                                                                       291443C81189                           425.0035        14748.00N  NNNN
+06S500507000HMB           0.00
+06S500507000SCA           0.00
+07A      280000.00           0.00           0.00           0.00         750.00        5000.00        6750.00           0.00           0.00           0.00        6750.00
+07B01       10000.00
+08A500507000NNNNNNNNN01YN   
+09A50050700020080312
+10A500507000N1                              M
+10BFJohn Done                                                   201109012023333333ABC Mortgage                       412 H St, NW                                                          Washington                         DC200121234
+10R5005070003 
+00070 3.20 
+99B F1      285000.00  0.00001116Sam Appraiser                                               Appraisers Inc                     123456789111111DC
+ADSLoanOriginatorID                   123456789012                                      
+ADSLoanOriginationCompanyID           123456789111                                      
+ADSSupervisoryAppraiserLicenseNumber  123456789abcdefghijkl                             
+00011 3.20 
+LNC1 02        16                                        N                               NN
+PID                                                  
+PCH    01  N 
+00020 3.20 
+IDA                       
+LEA999999999                                                      
+GOA            0.00           0.00           0.00  0.000          0.000  0.000           0.00  0.000 LOS ANGELES                        
+GOB203(b)                  0.00  0.000           0.00  0.0000  
+GOE500507000          0  0  0  D
+TT      2000
+ET     10000
