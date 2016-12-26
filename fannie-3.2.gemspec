@@ -1,7 +1,7 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'fannie/3.2/version'
+require 'fannie/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "fannie-3.2"
@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Baylor Rae'"]
   spec.email         = ["baylor@fastmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{parses FANNIE MAE 3.2 files}
+  spec.description   = %q{parses FANNIE MAE 3.2 files}
+  spec.homepage      = "https://github.com/baylorrae/fannie-3.2"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
@@ -23,4 +23,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 1.13"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
+  spec.add_development_dependency "cucumber", "~> 2.4"
+  spec.add_development_dependency 'rubyXL', '~> 3.3'
+  spec.add_development_dependency 'activesupport', '~> 5.0'
 end
